@@ -1,0 +1,37 @@
+img {
+    border-radius: 8px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+h1 {
+    font-size: medium;
+    color: paleturquoise;
+}
+h2 {
+    font-size: small;
+    color: rgb(17, 19, 18);
+    text-decoration: underline;
+}
+section {
+    padding:10px; 
+    border-radius:30px;
+    background:lightslategray;
+    margin:4px;
+}
+ul, ol {
+    font-size: 12px;
+    color: rgb(204, 186, 186);
+}
+span {
+    font-size: 15px;
+    color: whitesmoke;
+
+}
+.first-class{
+    background-color: rgb(161, 130, 161);
+}
+.second-class {
+    color:thistles
+}
